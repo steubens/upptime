@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Echo",
+    "url": "https://echo-server.$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/echo-server.$secret_site.ico",
+    "slug": "echo",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Echo2",
+    "url": "https://echo-server-2.$SECRET_SITE",
+    "icon": "https://icons.duckduckgo.com/ip3/echo-server-2.$secret_site.ico",
+    "slug": "echo2",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
+    "dailyMinutesDown": {}
+  }
+]

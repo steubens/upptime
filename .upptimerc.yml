@@ -1,0 +1,42 @@
+# Change these first
+owner: steubens # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
+
+sites:
+  # - name: Google
+  #   url: https://www.google.com
+  # - name: Wikipedia
+  #   url: https://en.wikipedia.org
+  # - name: Hacker News
+  #   url: https://news.ycombinator.com
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
+  - name: Echo
+    url: https://echo-server.$SECRET_SITE
+  - name: Echo2
+    url: https://echo-server-2.$SECRET_SITE
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime**"
+  # introMessage: 
+  robotsText: "User-agent: * \n Disallow: /"
+  navbar:
+    - title: Status
+      # href: /
+      href: https://steubens.github.io/upptime/
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration

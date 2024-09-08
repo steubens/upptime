@@ -4,35 +4,39 @@
     "url": "https://echo-server.$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/echo-server.$secret_site.ico",
     "slug": "echo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 230,
-    "timeWeek": 284,
-    "timeMonth": 285,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 269,
+    "timeDay": 189,
+    "timeWeek": 267,
+    "timeMonth": 269,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "Echo2",
     "url": "https://echo-server-2.$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/echo-server-2.$secret_site.ico",
     "slug": "echo2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 284,
-    "timeWeek": 288,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {}
+    "time": 239,
+    "timeDay": 203,
+    "timeWeek": 267,
+    "timeMonth": 239,
+    "timeYear": 239,
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   }
 ]

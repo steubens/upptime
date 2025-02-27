@@ -1,7 +1,7 @@
 url: https://echo-server.$SECRET_SITE
 status: down
 code: 530
-responseTime: 103
-lastUpdated: 2025-02-26T23:16:34.076Z
+responseTime: 163
+lastUpdated: 2025-02-27T23:15:38.593Z
 startTime: 2024-08-31T02:07:08.351Z
 generator: Upptime <https://github.com/upptime/upptime>
